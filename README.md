@@ -1,2 +1,2 @@
-# This is a COE team's Test Site
-**Used for publishing docs
+# This is a COE team's Test Site 
+**Used for publishing dev docs and blogs** for the team
