@@ -1,2 +1,2 @@
-# yashwantksingh.github.io
-A test site for COE
+# This a COE teams Test Site
+  Used for publishing dev docs.
